@@ -1,0 +1,1 @@
+"./helloWorld_omapl13x.obj" "./nimu_osal_omapl13x.obj" "./udpHello.obj" -l"configPkg/linker.cmd" -llibc.a 
